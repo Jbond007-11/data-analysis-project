@@ -8,9 +8,8 @@ Data analysis of Q1 2025 vessel movement patterns, pilot assignment efficiency, 
 - **Format**: Excel spreadsheet
 
 ## Project Structure
-data/             # Dataset
-  2025 Q1 All Assignments.xlsx
-
-analysis.ipynb    # Main analysis notebook
-requirements.txt  # Python dependencies
-README.md         # Project documentation
+- **data/** - Contains the dataset
+  - `2025 Q1 All Assignments.xlsx` (400 KB Excel file)
+- **analysis.ipynb** - Main Jupyter notebook with all analysis
+- **requirements.txt** - Python package dependencies
+- **README.md** - Project documentation
