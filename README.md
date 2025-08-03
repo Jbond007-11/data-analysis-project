@@ -7,10 +7,10 @@
 ### Critical Data Quality Issues Identified
 My analysis uncovered significant data integrity problems in the Pacific Pilotage Authority's vessel movement records:
 
-**Q1 2025 Anomalies:**
+**Anomalies:**
 - **4 records (0.11%)** with negative pilot durations
 
-### Affected Vessels (Q1 2025 Detailed)
+### Affected Vessels
 | Vessel Name | IMO | Duration Anomaly | Vessel Type | Route |
 |-------------|-----|------------------|-------------|--------|
 | **BOREAL PIONEER** | 9945198 | **-2.25 hours** | Tanker | P27 → Ridley Island Coal |
